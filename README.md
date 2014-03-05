@@ -5,7 +5,7 @@ This is remake script of user Craig Meinschein https://github.com/pfaffle Get-Lo
 
 His scpirt was very helpful for me. I added some new feautures for our customer expectations:
 
-•	Optimized request Get-Eventlog contitions
+•	Optimized request Get-Eventlog conditions
 
 •	Automatically detect OS language (EN or RUS) , Get-Wmi-Object  add addtional function
 
