@@ -1,6 +1,8 @@
 Get-LogonHistory-mult
 =====================
 
+Gets recent logons/logouts from the Windows Security Log on the local machine, and outputs them as custom PowerShell objects to csv file. 
+
 This is remake script of user Craig Meinschein https://github.com/pfaffle Get-LogonHistory.ps1
 
 His scpirt was very helpful for me. I added some new feautures for our customer expectations:
