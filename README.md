@@ -3,7 +3,7 @@ Get-LogonHistory-mult
 
 This is remake script of user Craig Meinschein https://github.com/pfaffle Get-LogonHistory.ps1
 
-His scpirt was very helpful for me. I added some new feautures for our customer exprectations:
+His scpirt was very helpful for me. I added some new feautures for our customer expectations:
 
 •	Automatically detect OS language (EN or RUS) , Get-Wmi-Object  add addtional function
 
