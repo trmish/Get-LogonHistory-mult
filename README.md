@@ -15,6 +15,6 @@ His scpirt was very helpful for me. I added some new feautures for our customer 
 
 •	Match user information with Active Directory user and find some Active Directory attributes such mail, telephonenumber
 
-•	Export to csv file for hanling in MS Excel Export-csv -Append (requires Powershell 3.0)
+•	Export to csv file for handling in MS Excel Export-csv -Append (requires Powershell 3.0)
 
 
